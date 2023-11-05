@@ -1,6 +1,6 @@
 """Constants for the Aquarea Smart Cloud integration."""
 
-DOMAIN = "aquarea"
+DOMAIN = "aquarea-cloud"
 DEVICES = "devices"
 CLIENT = "client"
 
