@@ -1,6 +1,6 @@
 {
   "domain": "aquarea-cloud",
-  "name": "Aquarea Smart Cloud",
+  "name": "Aquarea Smart Cloud fork",
   "codeowners": ["@cjaliaga"],
   "config_flow": true,
   "dependencies": ["recorder"],
