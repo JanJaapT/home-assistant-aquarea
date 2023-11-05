@@ -1,5 +1,5 @@
 {
-  "domain": "aquarea",
+  "domain": "aquarea-cloud",
   "name": "Aquarea Smart Cloud",
   "codeowners": ["@cjaliaga"],
   "config_flow": true,
